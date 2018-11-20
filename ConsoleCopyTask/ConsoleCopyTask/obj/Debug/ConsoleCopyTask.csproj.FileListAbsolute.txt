@@ -1,0 +1,7 @@
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\obj\Debug\ConsoleCopyTask.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\bin\Debug\ConsoleCopyTask.exe.config
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\bin\Debug\ConsoleCopyTask.exe
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\bin\Debug\ConsoleCopyTask.pdb
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\obj\Debug\ConsoleCopyTask.exe
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\obj\Debug\ConsoleCopyTask.pdb
+E:\Programming\C#\ConsoleCopyTask\ConsoleCopyTask\obj\Debug\ConsoleCopyTask.csprojAssemblyReference.cache
